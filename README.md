@@ -1,9 +1,9 @@
 # Windows Sandbox for working on older stuff on Java 8
  - Java 8 (Azul JDK)
  - IntelliJ
- - Visual studio Code
  - Git for Windows
  - Chocolately (for easy installation of misc. extra tools needed)
+ - Visual studio Code (optional, remove comment in `Install.cmd` when you need this)
 
 # Steps after cloning of this repo
 
