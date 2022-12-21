@@ -1,4 +1,4 @@
-# Windows Sandbox with:
+# Windows Sandbox for working on older stuff on Java 8
  - Java 8 (Azul JDK)
  - IntelliJ
  - Visual studio Code
