@@ -6,6 +6,8 @@
  - Visual studio Code (optional, remove comment in `Install.cmd` when you need this)
 
 # Steps after cloning of this repo
+### Change HostFolder in SandboxJava8Intellij.wsb
+Change the HostFolder in `SandboxJava8Intellij.wsb` to your local checkout dir
 
 ### Download JDK
 Copy the zulu8.66.0.15-ca-jdk8.0.352-win_x64.msi installer from https://cdn.azul.com/zulu/bin/zulu8.66.0.15-ca-jdk8.0.352-win_x64.msi and move it to `Stuff/`
