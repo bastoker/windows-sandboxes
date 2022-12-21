@@ -1,0 +1,11 @@
+<Configuration>
+<MappedFolders>    
+  <MappedFolder> 	
+    <HostFolder>C:\Sandboxes\Stuff</HostFolder>
+    <ReadOnly>true</ReadOnly>   
+  </MappedFolder>
+</MappedFolders>
+<LogonCommand>    
+  <Command>C:\users\wdagutilityaccount\desktop\Stuff\Install.cmd</Command>
+</LogonCommand>
+</Configuration>
